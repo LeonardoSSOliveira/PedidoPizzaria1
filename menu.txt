@@ -1,7 +1,9 @@
-      Controle de vendas
+      Controle de vendas de Pizzas
 Pizzaria: Pizza Alegre
-Vers„o: 001
+Vers√£o: 002
 Operador:
 
 Telefone:
 Cliente:
+CPF:
+E-mail:
